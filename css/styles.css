@@ -1,0 +1,27 @@
+#honey-showing {
+  display: none;
+}
+
+img {
+  width: 30%;
+  height: auto;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+#ahem-hidden {
+  display: none;
+}
+
+
+.show {
+  text-decoration: underline;
+  cursor: pointer;
+}

@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("p").click(function() {
+  $(".clickable").click(function() {
     $(".dog-showing").toggle();
     $(".dog-hidden").toggle();
   });

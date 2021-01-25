@@ -6,4 +6,12 @@ img {
   width: 30%;
   height: auto;
 }
- 
+
+p {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+p:hover {
+  text-decoration: underline;
+}
